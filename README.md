@@ -1,7 +1,7 @@
 # HomeWorkBot
 Telegram bot, that simplifies browsing, editing, adding and deleting current homework for certain date,group etc. Materials, lectures and files for certain subject and homework can be provided either.
 
-##Chain of Commands:
+## Chain of Commands:
 + <b> /start </b> - User provided with all information needed to use bot.
 + <b> /select </b> [subject] - Selecting one of available subjects
 	+ (specify group) - choosing appropriate group (if needed)
@@ -15,7 +15,7 @@ Telegram bot, that simplifies browsing, editing, adding and deleting current hom
 	+ <b> /select </b> - Selecting a new subject
 	+ <b> /delete </b> - Deleting an existing homework
 	
-###HomeWork object consists following fields:
+### HomeWork object consists following fields:
 * <b> subject </b> 	- Subject of chosen homework
 * <b> topic </b> 	- Current topic
 * <b> content </b> 	- Exactly what is needed to be done
