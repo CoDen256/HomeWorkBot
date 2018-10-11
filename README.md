@@ -11,9 +11,11 @@ Telegram bot, that simplifies browsing, editing, adding and deleting current hom
 		* specify deadline
 		* attach file or photo (optional)
 		* provide additional information (optional)
-	+ <b> /show </b> - user will be provided with all information for current homework
-	+ <b> /select </b> - Selecting a new subject
 	+ <b> /delete </b> - Deleting an existing homework
+	+ <b> /show </b> - user will be provided with all information for current homework
+	+ <b> /materials </b> - Uploading all files for this subject (lectures/practical etc)
+	+ <b> /select </b> - Selecting a new subject
+	
 	
 ### HomeWork object consists following fields:
 * <b> subject </b> 	- Subject of chosen homework
